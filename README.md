@@ -1,4 +1,4 @@
-# MTN Nigeria Customer Churn — SQL Operators Analysis
+# MTN Nigeria Customer Churn — SQL Analysis
 
 ## Project Overview
 
